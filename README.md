@@ -4,7 +4,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?logo=github&logoColor=white)](https://username.github.io/personal-portfolio)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?logo=github&logoColor=white)](https://MajekAhmed.github.io/personal-portfolio)
 
 ---
 
@@ -59,7 +59,7 @@
 📧 **Email:** owen.ar2002"gmail.com 
 
 💼 **LinkedIn:** [linkedin.com/in/ahmed-ragab-mohmed](https://www.linkedin.com/in/ahmed-ragab-mohmed/) 
-💻 **GitHub:** [github.com/username](https://github.com/MajekAhmed)
+💻 **GitHub:** [github.com/MajekAhmed](https://github.com/MajekAhmed)
 
 ---
 > 💡 لا تتردد بالتواصل إذا أردت تطوير مشروعك أو الحصول على نسخة خاصة بك من الموقع.
