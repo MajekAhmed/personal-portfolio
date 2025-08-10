@@ -49,7 +49,7 @@
 ---
 
 ## 🚀 تجربة المشروع
-📍 **رابط المشروع المباشر:** [اضغط هنا لفتح الموقع](https://username.github.io/personal-portfolio)
+📍 **رابط المشروع المباشر:** [اضغط هنا لفتح الموقع](https://MajekAhmed.github.io/personal-portfolio)
 
 ---
 
@@ -57,7 +57,8 @@
 أنا متاح لتصميم صفحة بروفايل مشابهة مقابل **5 دولار** وأعمل كـ **فريلانسر**.
 
 📧 **Email:** owen.ar2002"gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/ahmed-ragab-mohmed]((https://www.linkedin.com/in/ahmed-ragab-mohmed/))  
+
+💼 **LinkedIn:** [linkedin.com/in/ahmed-ragab-mohmed](https://www.linkedin.com/in/ahmed-ragab-mohmed/) 
 💻 **GitHub:** [github.com/username](https://github.com/MajekAhmed)
 
 ---
