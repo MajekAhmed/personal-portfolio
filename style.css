@@ -1,0 +1,27 @@
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+/* أنيميشن للظهور */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.fade-in.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+/* تأثيرات للزر */
+.button {   
+    background-color: #4CAF50; /* لون الخلفية */
+    color: white; /* لون النص */
+    padding: 10px 20px; /* الحشو */
+    border: none; /* إزالة الحدود */
+    border-radius: 5px; /* زوايا دائرية */
+    cursor: pointer; /* تغيير شكل المؤشر عند المرور فوق الزر */
+    transition: background-color 0.3s ease; /* تأثير الانتقال عند تغيير اللون */
+}
